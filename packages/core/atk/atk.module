@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<moduleset>
+	<tarball id="atk" version="1.32.0">
+		<source href="atk.tar.bz2"/>
+	</tarball>
+</moduleset>

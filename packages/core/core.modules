@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<moduleset>
+	<include href="gnome-common/gnome-common.module" />
+	
+	<metamodule id="ossbuild-core">
+		<dependencies>
+			<dep package="gnome-common" />
+		</dependencies>
+	</metamodule>
+</moduleset>

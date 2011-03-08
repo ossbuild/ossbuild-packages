@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Package name="glib">
+
+	<Dependencies>
+		<Add name="base" />
+	</Dependencies>
+	
+	<Extract package="packages.glib.windows.x86.bin" directory="${nativeResDir}/bin/">
+		<Echo key="res.glib.init" msg="Initializing GLib..." />
+
+		<!-- Libraries -->
+
+		<Library resource="libglib-2.0-0.dll" />
+		<Library resource="libgthread-2.0-0.dll" />
+		<Library resource="libgobject-2.0-0.dll" />
+		<Library resource="libgmodule-2.0-0.dll" />
+		<Library resource="libgio-2.0-0.dll" />
+	</Extract>
+
+</Package>

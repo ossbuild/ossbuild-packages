@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+
+<moduleset>
+	<include href="core/core.modules" />
+	<include href="media/media.modules" />
+	<include href="lang/lang.modules" />
+	
+	<metamodule id="ossbuild">
+		<dependencies>
+			<dep package="ossbuild-core" />
+			<dep package="ossbuild-media" />
+			<dep package="ossbuild-lang" />
+		</dependencies>
+	</metamodule>
+</moduleset>
