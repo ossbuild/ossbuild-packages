@@ -4,12 +4,14 @@
 	<include href="core/core.modules" />
 	<include href="media/media.modules" />
 	<include href="lang/lang.modules" />
+	<include href="testing/testing.modules" />
 	
 	<metamodule id="ossbuild">
 		<dependencies>
 			<dep package="ossbuild-core" />
 			<dep package="ossbuild-media" />
 			<dep package="ossbuild-lang" />
+			<dep package="ossbuild-testing" />
 		</dependencies>
 	</metamodule>
 </moduleset>
