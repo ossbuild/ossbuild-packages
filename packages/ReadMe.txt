@@ -8,7 +8,7 @@ that they are accessible through most firewalls.
 LGPL Packages
 -------------------------------------
 
-gnome-common            -       2.28.0          -       http://ftp.gnome.org/pub/GNOME/sources/gnome-common/2.28/gnome-common-2.28.0.tar.bz2
+gnome-common            -       2.34.0          -       http://ftp.gnome.org/pub/GNOME/sources/gnome-common/2.34/gnome-common-2.34.0.tar.bz2
 docbook                 -       1.75.2          -       http://downloads.sourceforge.net/project/docbook/docbook-xsl/1.75.2/docbook-xsl-1.75.2.tar.bz2?use_mirror=cdnetworks-us-1
 gtk-doc                 -       1.15.0          -       http://ftp.gnome.org/pub/GNOME/sources/gtk-doc/1.15/gtk-doc-1.15.tar.bz2
 proxy-libintl           -       20090911        -       http://ftp.gnome.org/pub/gnome/binaries/win32/dependencies/proxy-libintl-dev_20090911_win32.zip

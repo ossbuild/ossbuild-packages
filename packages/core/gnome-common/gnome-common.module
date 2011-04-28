@@ -2,7 +2,7 @@
 <moduleset>
 	<!-- <repository name="gnome-common" type="tarball" default="yes" /> -->
 	<!--
-	<tarball id="gnome-common" version="2.28.0">
+	<tarball id="gnome-common" version="2.34.0">
 		<source href="gnome-common.tar.bz2" />
 	</tarball>
 	<autotools id="gnome-common">
@@ -10,7 +10,7 @@
 		<dependencies />
 	</autotools>
 	-->
-	<tarball id="gnome-common" version="2.28.0">
-		<source href="gnome-common.tar.bz2" />
+	<tarball id="gnome-common" version="2.34.0">
+		<source href="gnome-common-2.34.0.tar.bz2" />
 	</tarball>
 </moduleset>
